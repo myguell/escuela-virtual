@@ -1,0 +1,65 @@
+body{
+    
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url(madera.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+  
+
+  .imagen {
+   
+    background: url(planeta.jpg);
+    height: 500px;
+    position: center;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .texto {
+    background: white;
+    height: 500px;
+    position: center;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+  h1{
+    text-align: center;
+  }
+
+
+  div.a{
+    float: left;
+    padding: 10px;
+    width: 300px;
+    margin: 40px;
+  }
+
+
+  div.b{
+    float: right;
+    padding: 10px;
+    width: 300px;
+    margin: 40px;
+  }
+
+
+  .button{
+      background: orangered;
+      color: white;
+      display: inline-block;
+      font-size: 1.25em;
+      margin: 20px;
+      padding: 10px 0px;
+      text-align: center;
+      width: 200px;
+      text-decoration: none;
+      
+  }
